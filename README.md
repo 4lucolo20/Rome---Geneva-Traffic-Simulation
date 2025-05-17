@@ -1,1 +1,9 @@
-# Rome---Geneva-Traffic-Simulation
+# Rome - Geneva Traffic Simulation
+
+Urban mobility is increasingly challenged by congestion, environmental impacts, and inefficiencies inherent in traditional transport management systems and aging infrastructures. This study employs an agent-based modeling approach using NetLogo to simulate and analyze urban traffic dynamics in Geneva and Rome, two cities characterized by distinct urban structures, transportation policies, and cultural attitudes toward mobility.
+
+The research aims to identify traffic patterns under varying simulated scenarios, compare urban mobility between the two cities, evaluate the efficiency of different transportation methods, and analyze opportunities for improvement in urban mobility systems. The simulation integrates real-world data, including OpenStreetMap networks and TomTom congestion data, to enhance accuracy and reliability. In the model, agents behave as fully rational individuals, always selecting the shortest route through the A* pathfinding algorithm.
+
+Results from the simulations highlight substantial differences in transportation efficiency. In ideal traffic conditions, private vehicles are shown to be the most efficient mode of transportation. Under realistic, congested scenarios, alternative modes such as cycling and public transport significantly outperform cars, particularly in Geneva, due to its robust cycling infrastructure and compact urban design. Conversely, Rome's extensive reliance on cars, coupled with limited infrastructure for alternative modes, exacerbates congestion, emphasizing the necessity for systemic infrastructure enhancements and cultural shifts towards sustainable mobility.
+
+This study’s innovative contribution lies in demonstrating the capability of ABM to produce actionable insights with limited computational resources, effectively guiding urban planning and policy decisions. The research highlights the utter contrasts between Geneva’s proactive infrastructure developments and Rome’s entrenched car dependence, underscoring the importance of context-specific, sustainable transport strategies tailored to each city’s unique characteristics.
